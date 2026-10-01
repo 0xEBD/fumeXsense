@@ -124,14 +124,13 @@ Below you’ll find the kick-off post for the series and the post covering this 
       <td>01</td>
       <td>Introducing fumeXsense WX2</td>
       <td>✅ Posted</td>
-      <td><a href=“https://www.linkedin.com/posts/andreas-jarosch_embeddedsystems-esp32-maker-activity-7502718935780327424-sQWo”>LinkedIn</a></td>
+      <td><a href=https://www.linkedin.com/posts/andreas-jarosch_embeddedsystems-esp32-maker-activity-7502718935780327424-sQWo>LinkedIn</a></td>
     </tr>
     <tr>
       <td>02</td>
       <td>PoC: PC-based “Hello WX2”</td>
-      <td>🚧 In progress</td>
-      <td>coming soon</td>
-    </tr>
+      <td>✅ Posted</td>
+      <td><a href=https://www.linkedin.com/posts/andreas-jarosch_fumexsense-embeddedsystems-rapidprototyping-ugcPost-7511300722261536768-A1sf>LinkedIn</a></td>
   </tbody>
 </table>
 

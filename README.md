@@ -66,7 +66,7 @@ The project follows a development philosophy that will probably feel familiar to
 
 **Explore quickly. Prove concepts on real hardware. Engineer deliberately.**
 
-**Ideas** first become **Proofs of Concept (PoCs)**. Their purpose is to answer technical questions, explore alternatives, and demonstrate that a concept works. A PoC is deliberately allowed to be experimental — its primary goal is learning and proof, not maintainability. AI accelerates this exploration through a cross  of **“vibe coding” and "specdriven coding"**
+**Ideas** first become **Proofs of Concept (PoCs)**. Their purpose is to answer technical questions, explore alternatives, and demonstrate that a concept works. A PoC is deliberately allowed to be experimental — its primary goal is learning and proof, not maintainability. AI accelerates this exploration through a cross  of **“vibe coding” and “spec-driven coding”**
 
 Once a concept has been demonstrated, it can move into the **Reference Implementation**. At this point, the focus changes from *making it work* to understanding, reviewing, structuring, integrating, and validating the solution as a maintainable baseline. AI accelerates this phase too — but with a different mindset: **“AI assisted software engineering.”**
 
@@ -124,17 +124,17 @@ I am documenting selected milestones and lessons from the project in a series of
       <td>01</td>
       <td>Introducing fumeXsense WX2</td>
       <td>✅ Posted</td>
-      <td><a href=“https://www.linkedin.com/posts/andreas-jarosch_embeddedsystems-esp32-maker-activity-7502718935780327424-sQWo”>LinkedIn</a></td>
+      <td><a href=https://www.linkedin.com/posts/andreas-jarosch_embeddedsystems-esp32-maker-activity-7502718935780327424-sQWo>LinkedIn</a></td>
     </tr>
     <tr>
       <td>02</td>
       <td>PoC: PC-based “Hello WX2”</td>
-      <td>🚧 In progress</td>
-      <td>coming soon</td>
+      <td>✅ Posted</td>
+      <td><a href=https://www.linkedin.com/posts/andreas-jarosch_fumexsense-embeddedsystems-rapidprototyping-ugcPost-7511300722261536768-A1sf>LinkedIn</a></td>
     </tr>
     <tr>
       <td>03</td>
-      <td>PoC: ESP32-C3-based “Hello World”</td>
+      <td>PoC: ESP32-C3-based “Hello WX2”</td>
       <td>🕒 Planned</td>
       <td>-</td>
     </tr>
