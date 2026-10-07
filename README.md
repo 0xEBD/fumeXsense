@@ -135,9 +135,11 @@ I am documenting selected milestones and lessons from the project in a series of
     <tr>
       <td>03</td>
       <td>PoC: ESP32-C3-based “Hello WX2”</td>
-      <td>🕒 Planned</td>
-      <td>-</td>
+      <td>✅ Posted</td>
+      <td><a href=https://www.linkedin.com/posts/andreas-jarosch_fumexsense-embeddedsystems-rapidprototyping-share-7513484890865029120-MR89>LinkedIn</a></td>
     </tr>
+
+  </tbody>
   </tbody>
 </table>
 

@@ -99,7 +99,7 @@ Do not rely on this project as the sole means of protection against soldering fu
 I am documenting selected milestones and lessons from the project in a series of LinkedIn posts. The posts tell the story behind the development, while this repository contains the corresponding engineering artifacts.
 
 📣 **LinkedIn:**<br> 
-- **This PoC** [PoC: PC-based “Hello WX2” — View post ](LINK)
+- **This PoC** [PoC: ESP32-C3-based “Hello WX2” — View post](https://www.linkedin.com/posts/andreas-jarosch_fumexsense-embeddedsystems-rapidprototyping-share-7513484890865029120-MR89)
 - **Overview ALL Posts** [fumeXsense LinkedIn Series](../../../../README.md#linkedin-posts)
 
 ## Disclaimer
