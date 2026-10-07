@@ -17,7 +17,7 @@ Along the way, I am sharing selected milestones and useful results — working P
 
 ![](assets/fx_systemDiagram.drawio.png)
 
-## Current Status
+## Project Evolution and Current Status
 
 ### 🧪 Proofs of Concept
 
@@ -34,8 +34,8 @@ Along the way, I am sharing selected milestones and useful results — working P
   </tr>
   <tr>
     <td>ESP32-C3-based “Hello WX2”</td>
-    <td>🚧 In progress</td>
-    <td>-</td>
+    <td>✅ Completed</td>
+    <td><a href=pocs/esp32/evolving_skeleton_poc/001_hello_wx2/>Folder</a></td>
   </tr>
     <tr>
     <td>HW Journey - From A to B1</td>
@@ -66,7 +66,7 @@ The project follows a development philosophy that will probably feel familiar to
 
 **Explore quickly. Prove concepts on real hardware. Engineer deliberately.**
 
-**Ideas** first become **Proofs of Concept (PoCs)**. Their purpose is to answer technical questions, explore alternatives, and demonstrate that a concept works. A PoC is deliberately allowed to be experimental — its primary goal is learning and proof, not maintainability. AI accelerates this exploration through a cross  of **“vibe coding” and “spec-driven coding”**
+**Ideas** first become **Proofs of Concept (PoCs)**. Their purpose is to answer technical questions, explore alternatives, and demonstrate that a concept works. A PoC is deliberately allowed to be experimental — its primary goal is learning and proof, not maintainability. AI accelerates this exploration through a cross  of **“vibe coding” and "specdriven coding"**
 
 Once a concept has been demonstrated, it can move into the **Reference Implementation**. At this point, the focus changes from *making it work* to understanding, reviewing, structuring, integrating, and validating the solution as a maintainable baseline. AI accelerates this phase too — but with a different mindset: **“AI assisted software engineering.”**
 

@@ -88,14 +88,15 @@
     <tr><th>Pin</th><th>Signal</th><th>Description</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>n.c.</td><td>Not used</td></tr>
-    <tr><td>2</td><td>GND</td><td>Ground</td></tr>
+    <tr><td>1</td><td>GND</td><td>Ground</td></tr>
+    <tr><td>2</td><td>n.c.</td><td>Not used</td></tr>
     <tr><td>3</td><td>VCC</td><td>Supply voltage (5 V), provided by CH340 board</td></tr>
     <tr><td>4</td><td>TX</td><td>UART transmit</td></tr>
     <tr><td>5</td><td>RX</td><td>UART receive</td></tr>
     <tr><td>6</td><td>n.c.</td><td>Not used</td></tr>
   </tbody>
 </table>
+
 
 
 
