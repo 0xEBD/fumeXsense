@@ -37,8 +37,13 @@ Along the way, I am sharing selected milestones and useful results — working P
     <td>✅ Completed</td>
     <td><a href=pocs/esp32/evolving_skeleton_poc/001_hello_wx2/>Folder</a></td>
   </tr>
+  <tr>
+    <td>ESP32-C3-based "From "Hello WX2" to a Workbench-Ready Skeleton"</td>
+    <td>✅ Completed</td>
+    <td><a href=pocs/esp32/evolving_skeleton_poc/002_oled_hmi/>Folder</a></td>
+  </tr>
     <tr>
-    <td>HW Journey - From A to B1</td>
+    <td>HW Journey - From B1 to B2</td>
     <td>🕒 Planned</td>
     <td>-</td>
   </tr>
@@ -138,8 +143,12 @@ I am documenting selected milestones and lessons from the project in a series of
       <td>✅ Posted</td>
       <td><a href=https://www.linkedin.com/posts/andreas-jarosch_fumexsense-embeddedsystems-rapidprototyping-share-7513484890865029120-MR89>LinkedIn</a></td>
     </tr>
-
-  </tbody>
+    <tr>
+      <td>04</td>
+      <td>PoC: ESP32-C3-based OLED HMI</td>
+      <td>🕒 Planned</td>
+      <td>-</td>
+    </tr>
   </tbody>
 </table>
 
@@ -147,8 +156,8 @@ I am documenting selected milestones and lessons from the project in a series of
 
 Unless otherwise noted:
 
-- **Software** is licensed under the [MIT License](LICENSES/MIT.txt).
-- **Hardware designs** are licensed under the [CERN Open Hardware Licence Version 2 – Permissive](LICENSES/CERN-OHL-P-2.0.txt).
+- **Software** is licensed under the [MIT License](licenses/MIT.txt).
+- **Hardware designs** are licensed under the [CERN Open Hardware Licence Version 2 – Permissive](licenses/CERN-OHL-P-2.0.txt).
 
 See the [LICENSES](licenses/) directory for the full license texts.
 

@@ -77,7 +77,7 @@
 
 **Note on the level shifter:** The MAX232 is not a particularly good choice for this board. It requires a 5 V supply and works with 5 V UART signal levels, while the later processing core (ESP32-C3) uses 3.3 V signal levels. The standard CH340 breakout, supplying the MAX232, is most often configured for 3.3 V as well; for this PoC it was switched to 5 V via a solder bridge (see [CH340 Breakout Board](#ch340-breakout-board)). The MAX3232 would be the proper 3.3 V-compatible choice. But the MAX232 was sitting in the parts box, ready to use — and for a quick “Hello World”, that won.😉
 
-💡 **Hint:** In the B2 hardware sample of the fumeXsense board, the MAX232 was replaced with a MAX3232, making the board 3.3 V-compatible and ready for the ESP32-C3. Separate PoC to come!
+💡 **Hint:** In the [B1 hardware sample](../../esp32/evolving_skeleton_poc/002_oled_hmi/hw/README.md) of the fumeXsense board, the MAX232 was replaced with a MAX3232, making the board 3.3 V-compatible and ready for the ESP32-C3.
 
 ⚠️ Do not connect this board directly to an ESP32-C3: the MAX232 receiver output drives about 5 V, and the ESP32-C3 inputs are not 5 V tolerant.
 
@@ -126,7 +126,7 @@ A standard CH340 USB-to-UART breakout board enables a PC to act as the “Proces
 
 💡 A few of these boards are always in my parts box: they are cheap and great for debugging embedded devices with UART from a PC.
 
-⚠️ **5 V configuration:** Most CH340 breakouts are configured to source 3.3 V by default. To match the 5 V MAX232 on the base board, the supply was switched to 5 V via a solder bridge on the back (see last photo below). With the MAX3232 on the B2 sample, 3.3 V is the right setting again.
+⚠️ **5 V configuration:** Most CH340 breakouts are configured to source 3.3 V by default. To match the 5 V MAX232 on the base board, the supply was switched to 5 V via a solder bridge on the back (see last photo below). With the MAX3232 on the B1 sample, 3.3 V is the right setting again.
 
 ![CH340 breakout board, front view](../assets/fxs_p002_ch340_front_small.jpg)
 

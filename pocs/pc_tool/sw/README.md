@@ -15,7 +15,7 @@
     <tr><td>pyserial</td><td>Serial communication with the WX2</td></tr>
     <tr><td>matplotlib</td><td>Live temperature graph (version 3.6 or newer; optional, the tool runs without the graph)</td></tr>
     <tr><td>tkinter, urllib, json, csv</td><td>Python standard library: GUI, Shelly HTTP API, settings, session logging</td></tr>
-        <tr><td>Python Application</td><td><a href=“wx2_control.py”><code>wx2_control.py</code></a> (single file)</td></tr>
+        <tr><td>Python Application</td><td><a href="wx2%20control.py"><code>wx2 control.py</code></a> (single file)</td></tr>
 
   </tbody>
 </table>

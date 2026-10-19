@@ -129,7 +129,7 @@ In short:
 
 `ESP32-C3 3.3 V TX → MAX232 RX`
 
-💡 **B2 board revision:** The B2 sample uses a MAX3232 powered from 3.3 V instead of the 5 V MAX232. Its logic interface is therefore directly compatible with the ESP32-C3, and the RX voltage divider on the shield is no longer required.
+💡 **B1 board revision:** The [B1 sample](../../002_oled_hmi/hw/README.md) uses a MAX3232 powered from 3.3 V instead of the 5 V MAX232. Its logic interface is therefore directly compatible with the ESP32-C3, and the RX voltage divider on the shield is no longer required.
 
 ### Pinout
 

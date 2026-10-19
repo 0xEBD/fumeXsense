@@ -114,4 +114,4 @@ Weller® and Shelly® are registered trademarks of their respective owners.
 
 ## License
 
-See the [fumeXsense main README](../../README.md) and [LICENSE](../../LICENSE).
+See the [fumeXsense main README](../../../../README.md#licenses) and the [licenses](../../../../licenses/) directory.
