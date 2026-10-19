@@ -1,4 +1,4 @@
-![](assets/post004_fxs_slide.png)
+![](assets/post004_fxs_slide.jpg)
 
 # PoC – ESP32-C3 – From "Hello WX2" to a Workbench-Ready Skeleton
 
